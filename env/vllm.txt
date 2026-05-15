@@ -1,0 +1,3 @@
+vllm==0.6.3.post1
+Serve target: CraftJarvis/JarvisVLA-Qwen2-VL-7B
+Verified endpoint: http://localhost:9052/v1
