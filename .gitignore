@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+.venv/
+venv/
+env/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data and generated datasets
+arena_dataset/
+arena_scene_dataset/
+dataset/
+dataset_seq/
+
+# Model artifacts and large binaries
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Node / frontend dependencies
+node_modules/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
