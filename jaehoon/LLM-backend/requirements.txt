@@ -1,0 +1,6 @@
+fastapi
+torch
+transformers
+bitsandbytes
+accelerate
+dashscope

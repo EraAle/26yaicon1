@@ -15,6 +15,7 @@ arena_dataset/
 arena_scene_dataset/
 dataset/
 dataset_seq/
+mf/mc-server/
 
 # Model artifacts and large binaries
 *.pt
